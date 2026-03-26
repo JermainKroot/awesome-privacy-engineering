@@ -85,6 +85,7 @@
 * [Octopii](https://github.com/redhuntlabs/Octopii) - Octopii is an open-source AI-powered PII scanner that can look for image assets such as Government IDs, passports, photos and signatures in a directory.
 * [Data Profiler](https://github.com/capitalone/DataProfiler) - DataProfiler is a Python library created by Capital One to make data analysis, monitoring, and sensitive data detection easy.
 * [PII Catcher](https://github.com/tokern/piicatcher) - Scan databases and data warehouses for PII data. Tag tables and columns in data catalogs like Amundsen and Datahub.
+* [Best Consent Management Platforms](https://github.com/JermainKroot/best-consent-management-platforms) - Hands-on comparison of 9 CMPs (including Cookiebot, OneTrust, Iubenda, and My Agile Privacy) tested on 25+ websites, evaluating GDPR/ePrivacy compliance accuracy, setup complexity, performance impact, and pricing.
 
 ### Privacy Tech Series by [Lea Kissner](https://twitter.com/leakissner?lang=en)
 ---
